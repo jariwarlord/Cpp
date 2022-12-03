@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1670026371 source:c:\users\berke\desktop\compos\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1670026148 c:\users\berke\desktop\compos\birthday.h
+
+1670027676 source:c:\users\berke\desktop\compos\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1670027632 c:\users\berke\desktop\compos\people.h
+	<string>
+	"Birthday.h"
+
+1670027693 source:c:\users\berke\desktop\compos\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+

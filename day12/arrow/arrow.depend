@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670016711 source:c:\users\berke\desktop\arrow\main.cpp
+	"sally.h"
+	<iostream>
+
+1670016474 c:\users\berke\desktop\arrow\sally.h
+
+1670016725 source:c:\users\berke\desktop\arrow\sally.cpp
+	"sally.h"
+	<iostream>
+
