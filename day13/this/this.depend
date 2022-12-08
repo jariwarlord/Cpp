@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670501373 source:c:\users\berke\desktop\this\hannah.cpp
+	<iostream>
+	"Hannah.h"
+
+1670501198 c:\users\berke\desktop\this\hannah.h
+
+1670501192 source:c:\users\berke\desktop\this\main.cpp
+	<iostream>
+	"Hannah.h"
+
