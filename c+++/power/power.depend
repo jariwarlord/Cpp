@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676400065 source:c:\users\berke\desktop\power\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
